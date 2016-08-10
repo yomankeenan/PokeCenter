@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon Go</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="category_array">
+        <item> Choose Category</item>
+        <item>12 Candies (Pidgey, Caterpie, Weedle)</item>
+        <item>25 Candies (Rattata, Charmander, Machop, etc...)</item>
+        <item>50 Candies (Ekans, Spearow, etc...)</item>
+        <item>100 Candies (Dragonair, Ivysaur, Machoke, etc...)</item>
+        <item>400 Candies (Magikarp)"</item>
+    </string-array>
+</resources>
